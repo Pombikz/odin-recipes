@@ -1,0 +1,32 @@
+.headline{
+    color: rgba(180, 219, 7, 0.932);
+    text-align: center;
+
+}
+
+.primary-img{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recipe-tittle{
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+
+}
+
+.description{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.ingredients, .step-by-step{
+    font-weight: bold;
+    
+}
+
+.recipe-img{
+    width: 400px;
+}
